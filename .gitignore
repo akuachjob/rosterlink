@@ -158,3 +158,6 @@ Thumbs.db
 # Build output
 dist/
 build/
+
+# Test files
+test-*.json
